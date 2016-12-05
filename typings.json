@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ts-ticker": "file:node_modules/ts-ticker/dist/TickManager.d.ts"
+  },
+  "globalDependencies": {
+    "greensock": "registry:dt/greensock#1.15.1+20161006002003",
+    "jquery": "registry:dt/jquery#1.10.0+20160929162922",
+    "js-signals": "registry:dt/js-signals#0.0.0+20160316155526",
+    "pixi.js": "registry:dt/pixi.js#3.0.9+20160825215559"
+  }
+}

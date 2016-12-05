@@ -1,0 +1,26 @@
+{
+  "name": "ticker-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "ticker.js",
+  "types": "ticker.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Franco Barletta",
+  "license": "MIT",
+  "devDependencies": {
+    "bower-webpack-plugin": "^0.1.9",
+    "npm-install-webpack-plugin": "^4.0.4",
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "gsap": "^1.19.0",
+    "jquery": "^3.1.1",
+    "pixi.js": "^4.1.0",
+    "ts-ticker": "0.0.5"
+  }
+}
